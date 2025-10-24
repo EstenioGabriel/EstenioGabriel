@@ -19,8 +19,8 @@ Aqui você vai encontrar alguns projetos que desenvolvi durante o curso — são
 
 ### 📫 Contato
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Linked-in-alt.svg/1280px-Linked-in-alt.svg.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/estenio-gabriel-157914352/)  
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Linked-in-alt.svg/1280px-Linked-in-alt.svg.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/estenio-gabriel-157914352/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Email" height="40"/>](mailto:esteniogabrieldelima@gmail.com)
 [<img src="https://pngimg.com/uploads/discord/discord_PNG8.png" alt="Discord" height="40"/>](https://discord.gg/Zs8SbsgfCC)
 
 ---
