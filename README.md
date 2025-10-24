@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Olá, bem-vindo(a) ao meu perfil!
 
-<!--
-**EstenioGabriel/EstenioGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Meu nome é **Gabriel de Lima**
 
-Here are some ideas to get you started:
+Sou estudante da **Universidade de Fortaleza (UNIFOR)** e atualmente curso **Análise e Desenvolvimento de Sistemas**.  
+Estou no **segundo semestre** (de cinco) e a previsão de conclusão é em **2027**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui você vai encontrar alguns projetos que desenvolvi durante o curso — são trabalhos simples, mas feitos com **dedicação** e **vontade de aprender** 🚀
+
+---
+
+### 🛠️ Ferramentas
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40"/>](https://www.jetbrains.com/idea/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png?20220905010122" alt="Git" height="40"/>](https://git-scm.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Codicons_%E2%80%93_github-inverted.svg/1280px-Codicons_%E2%80%93_github-inverted.svg.png" alt="GitHub" height="40"/>](https://github.com/EstenioGabriel)
+
+---
+
+### 📫 Contato
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Linked-in-alt.svg/1280px-Linked-in-alt.svg.png" alt="LinkedIn" height="40"/>](https://www.linkedin.com/in/estenio-gabriel-157914352/)  
+
+[<img src="https://pngimg.com/uploads/discord/discord_PNG8.png" alt="Discord" height="40"/>](https://discord.gg/Zs8SbsgfCC)
+
+---
+
+###  *“Todo especialista um dia foi um iniciante.”*
