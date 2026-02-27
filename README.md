@@ -11,9 +11,10 @@ Aqui você vai encontrar alguns projetos que desenvolvi durante o curso — são
 
 ### 🛠️ Ferramentas
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" height="40"/>](https://www.jetbrains.com/idea/) 
+[<img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="JAVA" height="40"/>](https://www.java.com/pt-BR/) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1280px-Git_icon.svg.png" alt="Git" height="40"/>](https://git-scm.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Codicons_%E2%80%93_github-inverted.svg/1280px-Codicons_%E2%80%93_github-inverted.svg.png" alt="GitHub" height="40"/>](https://github.com/EstenioGabriel)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="40"/>](https://en.wikipedia.org/wiki/Linux)
 
 ---
 
