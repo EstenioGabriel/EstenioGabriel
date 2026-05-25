@@ -4,7 +4,7 @@
 
 Sou estudante da **Universidade de Fortaleza (UNIFOR)**, atualmente cursando **Análise e Desenvolvimento de Sistemas** (3º semestre, previsão de conclusão em 2027).
 
-Aqui no meu GitHub você encontrará os repositórios dos códigos e sistemas que desenvolvo ao longo da minha jornada acadêmica, sempre focando em aprender novas tecnologias e evoluir como desenvolvedor. 🚀
+Aqui no meu GitHub você encontrará os repositórios dos códigos e sistemas que desenvolvo ao longo da minha jornada acadêmica, sempre focando em aprender novas tecnologias e evoluir como desenvolvedor.
 
 ---
 
